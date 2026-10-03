@@ -2,7 +2,7 @@ import React from "react";
 import { useParams, Link } from "react-router-dom";
 import { FaArrowLeft, FaClock, FaUser, FaCalendarAlt } from "react-icons/fa";
 import { blogPosts } from "../data/blogs";
-import { doctorsDetail } from "../Data/services";
+import { doctorsDetail } from "../data/services";
 
 // Blog images
 import img1 from "../assets/img/blog1.jpg";

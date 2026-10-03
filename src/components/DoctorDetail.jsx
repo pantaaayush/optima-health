@@ -9,7 +9,7 @@ import {
   FaCalendarAlt,
   FaLanguage,
 } from "react-icons/fa";
-import { doctorsDetail } from "../Data/services";
+import { doctorsDetail } from "../data/services";
 
 // Doctor images
 import doc1 from "../assets/img/doc1.jpg";

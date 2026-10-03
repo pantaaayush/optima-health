@@ -7,7 +7,7 @@ import {
 } from "react-icons/ri";
 import { MdHealthAndSafety } from "react-icons/md";
 import { FaHeartbeat, FaBaby } from "react-icons/fa";
-import { servicesData } from "../Data/services";
+import { servicesData } from "../data/services";
 
 const iconMap = {
   microscope: <RiMicroscopeLine size={32} className="text-blue-600" />,

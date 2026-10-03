@@ -7,7 +7,7 @@ import {
 } from "react-icons/ri";
 import { MdHealthAndSafety } from "react-icons/md";
 import { FaHeartbeat, FaBaby, FaCheck, FaArrowLeft } from "react-icons/fa";
-import { servicesData, doctorsData, doctorsDetail } from "../Data/services";
+import { servicesData, doctorsData, doctorsDetail } from "../data/services";
 
 // Import doctor images
 import doc1 from "../assets/img/doc1.jpg";

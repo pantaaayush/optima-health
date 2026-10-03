@@ -13,7 +13,7 @@ import {
   FaRedo,
   FaCheck,
 } from "react-icons/fa";
-import { doctorsDetail } from "../Data/services";
+import { doctorsDetail } from "../data/services";
 
 // Import doctor images
 import doc1 from "../assets/img/doc1.jpg";
