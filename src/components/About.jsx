@@ -27,7 +27,7 @@ const About = () => {
             Health care that treats you like a person, not a file.
           </h1>
           <p className="text-gray-600 leading-relaxed">
-            We started WellnessVista with one goal — make good health care
+           We started Optima Health with one goal — make good health care
             simple, honest, and actually accessible. No endless waiting rooms.
             No confusing medical terms. Just real doctors who listen, diagnose
             carefully, and explain things in a way you can actually understand.
